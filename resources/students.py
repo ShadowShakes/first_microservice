@@ -8,7 +8,7 @@ class StudentsResource:
     #
 
     students_file = \
-        "/Users/orange/Documents/2023-2024Fall/E6156/6156_sc5154/resources/old-students.json"
+        "resources/old-students.json"
 
     def __init__(self):
         self.students = None
